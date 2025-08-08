@@ -18,6 +18,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreigoulart&show_icons=true&theme=tokyonight&count_private=true" />
@@ -25,12 +26,4 @@
 </div>
 
 ---
-
-## 🐍 A cobrinha dos commits
-![Snake animation](https://github.com/andreigoulart/andreigoulart/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
-<!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
